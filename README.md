@@ -81,3 +81,6 @@ streamlit run main2.py
  - Optimize performance for smoother real-time interaction.
 
 ## Output
+
+https://github.com/user-attachments/assets/53a5a0fa-72a2-4cb5-9486-d4c6778054a2
+
